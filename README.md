@@ -1,4 +1,8 @@
-### Hi there 👋
+### Desenvolvedor FullStack
+
+# Desenvolvedor Python / Java / C# / JavaScript - BackEnd
+
+# Desenvolvedor Html / Css / VueJs / JavaScript - FrontEnd
 
 <!--
 **BlackCode7/BlackCode7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
