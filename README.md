@@ -8,12 +8,12 @@ GitLab: https://gitlab.com/Anderson7770
 Email: anderson77martins@outlook.com
 linkdin: https://www.linkedin.com/in/desenvolvedorpythondjango/
 
-### BackEnd Python / Java / C# / JavaScript / Maven
-### Frameworks: Flask / Django / Spring Boot / 
+### BackEnd Python / Java / C# / JavaScript / Maven / Flask / Django / Spring Boot  
+https://github.com/BlackCode7/Projetos_Python
+https://github.com/BlackCode7/TesteSiteNoticias
+
 ### FrontEnd Html / Css / VueJs / BootStrap / JavaScript
-
-  ![image](https://user-images.githubusercontent.com/60161033/117592913-bfc6c500-b110-11eb-861f-d45e1ffb6b57.png)
-
+https://gitlab.com/Anderson7770/Projeto-kanban-board  
 
 ### banco de dados PostgreSQL / MySQL / SQL
 
@@ -38,12 +38,4 @@ linkdin: https://www.linkedin.com/in/desenvolvedorpythondjango/
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
