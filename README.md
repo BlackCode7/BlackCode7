@@ -2,14 +2,14 @@
 
 ## Contato
 
-whatsapp Business: https://criarmeulink.com.br/u/1620606633962
+whatsapp Business: https://linkwhats.app/3a9228
 GitHub: https://github.com/BlackCode7
 GitLab: https://gitlab.com/Anderson7770
 Email: anderson77martins@outlook.com
 linkdin: https://www.linkedin.com/in/desenvolvedorpythondjango/
 
-### BackEnd Python / Java / C# / JavaScript 
-### Frameworks: Flask / Django / Spring Boot 
+### BackEnd Python / Java / C# / JavaScript / Maven
+### Frameworks: Flask / Django / Spring Boot / 
 ### FrontEnd Html / Css / VueJs / BootStrap / JavaScript
 ### banco de dados PostgreSQL / MySQL / SQL
 
