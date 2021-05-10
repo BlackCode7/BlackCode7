@@ -1,6 +1,6 @@
 # Desenvolvedor FullStack
 
-### Contato
+## Contato
 
 whatsapp Business: 21 9.9043-1613
 GitHub: https://github.com/BlackCode7
@@ -13,7 +13,7 @@ linkdin: https://www.linkedin.com/in/desenvolvedorpythondjango/
 ### FrontEnd Html / Css / VueJs / BootStrap / JavaScript
 ### banco de dados PostgreSQL / MySQL / SQL
 
-## Educação
+# Educação
 
 1 - Graduando em Análise e desenvolvimento de Sistemas Favip – Widen (mar/2020 até 2023 https://www.eadwyden.com.br/);
 
