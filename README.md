@@ -1,10 +1,19 @@
 # Desenvolvedor FullStack
 
-### Desenvolvedor Python / Java / C# / JavaScript - BackEnd
+### Contato
 
-### Desenvolvedor Html / Css / VueJs / JavaScript - FrontEnd
+whatsapp Business: 21 9.9043-1613
+GitHub: https://github.com/BlackCode7
+GitLab: https://gitlab.com/Anderson7770
+Email: anderson77martins@outlook.com
+linkdin: https://www.linkedin.com/in/desenvolvedorpythondjango/
 
-### Educação
+### BackEnd Python / Java / C# / JavaScript 
+### Frameworks: Flask / Django / Spring Boot 
+### FrontEnd Html / Css / VueJs / BootStrap / JavaScript
+### banco de dados PostgreSQL / MySQL / SQL
+
+## Educação
 
 1 - Graduando em Análise e desenvolvimento de Sistemas Favip – Widen (mar/2020 até 2023 https://www.eadwyden.com.br/);
 
