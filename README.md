@@ -11,6 +11,10 @@ linkdin: https://www.linkedin.com/in/desenvolvedorpythondjango/
 ### BackEnd Python / Java / C# / JavaScript / Maven
 ### Frameworks: Flask / Django / Spring Boot / 
 ### FrontEnd Html / Css / VueJs / BootStrap / JavaScript
+
+  ![image](https://user-images.githubusercontent.com/60161033/117592913-bfc6c500-b110-11eb-861f-d45e1ffb6b57.png)
+
+
 ### banco de dados PostgreSQL / MySQL / SQL
 
 # Educação
