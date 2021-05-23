@@ -2,12 +2,12 @@
 
 # Contato
 
-1 - whatsapp Business: https://linkwhats.app/3a9228 ;
-2 - GitHub: https://github.com/BlackCode7 ;
-3 - GitLab: https://gitlab.com/Anderson7770 ;
-4 - Email: anderson77martins@outlook.com ;
-5 - linkdin: https://www.linkedin.com/in/desenvolvedorpythondjango/ ;
-6 - telefone: 21 990431613 ;
+1 - whatsapp Business: https://linkwhats.app/3a9228;
+2 - GitHub: https://github.com/BlackCode7;
+3 - GitLab: https://gitlab.com/Anderson7770;
+4 - Email: anderson77martins@outlook.com;
+5 - linkdin: https://www.linkedin.com/in/desenvolvedorpythondjango/;
+6 - telefone: 21 990431613;
 
 # Experiência
 
