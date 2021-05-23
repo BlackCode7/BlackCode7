@@ -1,6 +1,6 @@
 # Desenvolvedor FullStack
 
-## Contato
+#### Contato
 
 whatsapp Business: https://linkwhats.app/3a9228
 GitHub: https://github.com/BlackCode7
@@ -11,7 +11,7 @@ telefone: 21 990431613
 
 # Experiência
 
-### BackEnd Python / Java / C# / JavaScript / Maven / Flask / Django / Spring Boot  
+#### BackEnd Python / Java / C# / JavaScript / Maven / Flask / Django / Spring Boot  
 https://github.com/BlackCode7/Projetos_Python
 https://github.com/BlackCode7/TesteSiteNoticias
 https://github.com/BlackCode7/CursoVuejs
@@ -19,10 +19,10 @@ https://github.com/BlackCode7/apirest-produtos7070
 https://github.com/BlackCode7/ProjetoTesteFlask
 
 
-### FrontEnd Html / Css / VueJs / BootStrap / JavaScript
+#### FrontEnd Html / Css / VueJs / BootStrap / JavaScript
 https://gitlab.com/Anderson7770/Projeto-kanban-board  
 
-### banco de dados PostgreSQL / MySQL / SQL
+#### banco de dados PostgreSQL / MySQL / SQL
 
 
 # Educação
