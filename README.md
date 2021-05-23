@@ -2,21 +2,21 @@
 
 #### Contato
 
-whatsapp Business: https://linkwhats.app/3a9228
-GitHub: https://github.com/BlackCode7
-GitLab: https://gitlab.com/Anderson7770
-Email: anderson77martins@outlook.com
-linkdin: https://www.linkedin.com/in/desenvolvedorpythondjango/
-telefone: 21 990431613
+1 - whatsapp Business: https://linkwhats.app/3a9228
+2 - GitHub: https://github.com/BlackCode7
+3 - GitLab: https://gitlab.com/Anderson7770
+4 - Email: anderson77martins@outlook.com
+5 - linkdin: https://www.linkedin.com/in/desenvolvedorpythondjango/
+6 - telefone: 21 990431613
 
 # Experiência
 
 #### BackEnd Python / Java / C# / JavaScript / Maven / Flask / Django / Spring Boot  
-https://github.com/BlackCode7/Projetos_Python
-https://github.com/BlackCode7/TesteSiteNoticias
-https://github.com/BlackCode7/CursoVuejs
-https://github.com/BlackCode7/apirest-produtos7070
-https://github.com/BlackCode7/ProjetoTesteFlask
+1 - https://github.com/BlackCode7/Projetos_Python
+2 - https://github.com/BlackCode7/TesteSiteNoticias
+3 - https://github.com/BlackCode7/CursoVuejs
+4 - https://github.com/BlackCode7/apirest-produtos7070
+5 - https://github.com/BlackCode7/ProjetoTesteFlask
 
 
 #### FrontEnd Html / Css / VueJs / BootStrap / JavaScript
