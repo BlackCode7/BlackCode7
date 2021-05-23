@@ -7,6 +7,7 @@ GitHub: https://github.com/BlackCode7
 GitLab: https://gitlab.com/Anderson7770
 Email: anderson77martins@outlook.com
 linkdin: https://www.linkedin.com/in/desenvolvedorpythondjango/
+telefone: 21 990431613
 
 # Experiência
 
