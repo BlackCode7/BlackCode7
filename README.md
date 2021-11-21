@@ -8,24 +8,29 @@
 <hr>
 
 <h2>Contato</h2>
-<a href="https://linkwhats.app/3a9228">
-  <img>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-icone-2.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
 
-<a href="https://github.com/BlackCode7">
-  <img>
+<a href="https://github.com/BlackCode7" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
 
-<a href="anderson77martins@outlook.com">
-  <img>
+<a href="anderson77martins@outlook.com" target="_blank">
+  <img src="https://evernote.com/blog/wp-content/uploads/2018/02/Outlook.com_Blog-Asset-232x232.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
 
-<a href="https://www.linkedin.com/in/desenvolvedorpythondjango/">
-  <img>
+<a href="https://www.linkedin.com/in/desenvolvedorpythondjango/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
 
-<a href="https://gitlab.com/Anderson7770">
-  <img>
+<a href="https://gitlab.com/Anderson7770" target="_blank">
+  <img src="" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
 
 
