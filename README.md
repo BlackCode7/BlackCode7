@@ -34,73 +34,77 @@
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
 
-
-
-
-
 <hr>
 
-
-# skills
-<a href="https://linkwhats.app/3a9228" target="_blank">
+<h2>Skills</h2> 
+<a href="https://docs.oracle.com/en/java/" target="_blank">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTllyP79MqrXCSSphiNTGeBm22-phQr0OfKItcYEwT-ue5N3g_PfUPC20w6o_obnroIat0&usqp=CAU" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
-<a href="https://linkwhats.app/3a9228" target="_blank">
+<a href="https://docs.python.org/3/" target="_blank">
   <img src="https://minerandodados.com.br/wp-content/uploads/2017/02/python-logo.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
-<a href="https://linkwhats.app/3a9228" target="_blank">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
   <img src="https://96renato96.files.wordpress.com/2014/10/javascript-logo-png1.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;"> 
 </a>
-<a href="https://linkwhats.app/3a9228" target="_blank">
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
   <img src="https://blog.workana.com/wp-content/uploads/2018/03/Logo-TypeScript.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
-<a href="https://linkwhats.app/3a9228" target="_blank">
+<a href="https://angular.io/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>   
-<a href="https://linkwhats.app/3a9228" target="_blank">
+<a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
   <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
-<a href="https://linkwhats.app/3a9228" target="_blank">
+<a href="https://vuejs.org/v2/guide/" target="_blank">
   <img src="https://vuejs.org/images/logo.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
-<a href="https://linkwhats.app/3a9228" target="_blank">
+<a href="" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
-<a href="https://linkwhats.app/3a9228" target="_blank">
+<a href="" target="_blank">
   <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
-<a href="https://linkwhats.app/3a9228" target="_blank">
+<a href="https://getbootstrap.com/" target="_blank">
   <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
 
-<a href="https://linkwhats.app/3a9228" target="_blank">
+<a href="https://www.primefaces.org/primeng/" target="_blank">
   <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2016/10/primeng.png?resize=250%2C250&ssl=1" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://e7.pngegg.com/pngimages/44/4/png-clipart-logo-product-design-brand-font-sql-logo-blue-text.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="100em" style="max-width:120%;">
+</a>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="80em" style="max-width:120%;">
+</a>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:120%;">
+</a>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://lh3.googleusercontent.com/proxy/MdTa-mR6_l611rDiStTkAiWDaRKWMjdEZfdhyCiXqEg8NczVJt4T3x0P3C4rROjJ4ekWcmMV6ZmdmNE-2R-IgTz4iag" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:120%;">
+</a>
 
-       
 
-       
+    
+<h2>Experience</h2>
 
+#### BackEnd Python / Java / C# / JavaScript / Maven / Flask / Django / Spring Boot 
 
-
-       
-       
-       
-
-# Experiência
-
-#### BackEnd Python / Java / C# / JavaScript / Maven / Flask / Django / Spring Boot  
 1 - https://github.com/BlackCode7/Projetos_Python ;
 
 2 - https://github.com/BlackCode7/TesteSiteNoticias ;
@@ -111,12 +115,10 @@
 
 5 - https://github.com/BlackCode7/ProjetoTesteFlask ;
 
-
 #### FrontEnd Html / Css / VueJs / BootStrap / JavaScript
 https://gitlab.com/Anderson7770/Projeto-kanban-board ;
 
 #### banco de dados PostgreSQL / MySQL / SQL
-
 
 # Educação
 
