@@ -1,5 +1,5 @@
 <hr>
-<h2 align="center">Developer Java / Python / TypeScript</h2>
+<h2>Developer Java / Python / TypeScript</h2>
 <p>Hello my is Anderson, Welcome to my Github!</p>
 <p>In my github I share my learning experiences and projects using programming languages focused on Web applications, like web systems, websites, blogs and case studies with languages like: Java, Python, JavaScript, TypeScript, html, css! And along with these languages I use frameworks like Flask / Django / SpringBoot / Angular / React.
 </p>
@@ -8,10 +8,7 @@
 <hr>
 
 <h2>Contact</h2>
-<a href="https://linkwhats.app/3a9228" target="_blank">
-  <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-icone-2.png" 
-        alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
-</a>
+
 <a href="https://github.com/BlackCode7" target="_blank" >
   <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
@@ -32,6 +29,13 @@
   <img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-icone-2.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
+</a>
+
+
+
 
 
 <hr>
@@ -78,6 +82,12 @@
   <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
+
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2016/10/primeng.png?resize=250%2C250&ssl=1" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
+</a>
+
        
 
        
