@@ -1,6 +1,6 @@
 <hr>
 <h2>Developer Java / Python / TypeScript</h2>
-<p>Hello my is Anderson, Welcome to my Github!</p>
+<p>Hello my name is Anderson, Welcome to my Github!</p>
 <p>In my github I share my learning experiences and projects using programming languages focused on Web applications, like web systems, websites, blogs and case studies with languages like: Java, Python, JavaScript, TypeScript, html, css! And along with these languages I use frameworks like Flask / Django / SpringBoot / Angular / React.
 </p>
 <p>I have a great passion for the Web! That's why I use these technologies with focus on Web development, but I've been venturing into knowledge like data analysis with Python, I hope to soon be sharing something in this direction with the community here on github.
