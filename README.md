@@ -7,7 +7,7 @@
 </p>
 <hr>
 
-<h2>Contato</h2>
+<h2 align="center">Contato</h2>
 <a href="https://linkwhats.app/3a9228" target="_blank">
   <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-icone-2.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://gitlab.com/Anderson7770" target="_blank">
-  <img src="" 
+  <img src="https://www.inf.ufpr.br/les17/gitlab.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
 
