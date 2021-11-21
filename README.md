@@ -1,6 +1,34 @@
-# Desenvolvedor
+<hr>
+<h2 align="center">Developer Java / Python / TypeScript</h2>
+<p>Hello my is Anderson, Welcome to my Github!</p>
+<p>In my github I share my learning experiences and projects using programming languages focused on Web applications, like web systems, websites, blogs and case studies with languages like: Java, Python, JavaScript, TypeScript, html, css! And along with these languages I use frameworks like Flask / Django / SpringBoot / Angular / React.
+</p>
+<p>I have a great passion for the Web! That's why I use these technologies with focus on Web development, but I've been venturing into knowledge like data analysis with Python, I hope to soon be sharing something in this direction with the community here on github.
+</p>
+<hr>
 
-# Contato
+<h2>Contato</h2>
+<a href="https://linkwhats.app/3a9228">
+  <img>
+</a>
+
+<a href="https://github.com/BlackCode7">
+  <img>
+</a>
+
+<a href="anderson77martins@outlook.com">
+  <img>
+</a>
+
+<a href="https://www.linkedin.com/in/desenvolvedorpythondjango/">
+  <img>
+</a>
+
+<a href="https://gitlab.com/Anderson7770">
+  <img>
+</a>
+
+
 
 1 - whatsapp Business: https://linkwhats.app/3a9228;
 
@@ -12,7 +40,7 @@
 
 5 - linkdin: https://www.linkedin.com/in/desenvolvedorpythondjango/;
 
-6 - telefone: 21 990431613;
+
 
 # Experiência
 
