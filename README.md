@@ -100,7 +100,7 @@
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
 
-
+<hr>
 
 <h2>Education</h2>
 
