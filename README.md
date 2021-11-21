@@ -7,50 +7,86 @@
 </p>
 <hr>
 
-<h2 align="center">Contato</h2>
+<h2>Contact</h2>
 <a href="https://linkwhats.app/3a9228" target="_blank">
   <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-icone-2.png" 
-       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
+        alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
-
-<a href="https://github.com/BlackCode7" target="_blank">
+<a href="https://github.com/BlackCode7" target="_blank" >
   <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
-
 <a href="anderson77martins@outlook.com" target="_blank">
   <img src="https://evernote.com/blog/wp-content/uploads/2018/02/Outlook.com_Blog-Asset-232x232.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
-
-<a href="https://www.linkedin.com/in/desenvolvedorpythondjango/" target="_blank">
+<a href="https://www.linkedin.com/in/desenvolvedorpythondjango/" target="_blank" >
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
-
-<a href="https://gitlab.com/Anderson7770" target="_blank">
+<a href="https://gitlab.com/Anderson7770" target="_blank" >
   <img src="https://www.inf.ufpr.br/les17/gitlab.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
-
 <a href="https://www.instagram.com/andersonribeirom/" target="_blank">
   <img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
 
 
-
-1 - whatsapp Business: https://linkwhats.app/3a9228;
-
-2 - GitHub: https://github.com/BlackCode7;
-
-3 - GitLab: https://gitlab.com/Anderson7770;
-
-4 - Email: anderson77martins@outlook.com;
-
-5 - linkdin: https://www.linkedin.com/in/desenvolvedorpythondjango/;
+<hr>
 
 
+# skills
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTllyP79MqrXCSSphiNTGeBm22-phQr0OfKItcYEwT-ue5N3g_PfUPC20w6o_obnroIat0&usqp=CAU" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
+</a>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://minerandodados.com.br/wp-content/uploads/2017/02/python-logo.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
+</a>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://96renato96.files.wordpress.com/2014/10/javascript-logo-png1.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;"> 
+</a>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://blog.workana.com/wp-content/uploads/2018/03/Logo-TypeScript.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
+</a>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
+</a>   
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
+</a>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://vuejs.org/images/logo.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
+</a>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
+</a>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
+</a>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
+</a>
+       
+
+       
+
+
+
+       
+       
+       
 
 # Experiência
 
