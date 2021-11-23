@@ -66,10 +66,7 @@
   <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:120%;">
 </a>
-<a href="https://linkwhats.app/3a9228" target="_blank">
-  <img src="https://lh3.googleusercontent.com/proxy/MdTa-mR6_l611rDiStTkAiWDaRKWMjdEZfdhyCiXqEg8NczVJt4T3x0P3C4rROjJ4ekWcmMV6ZmdmNE-2R-IgTz4iag" 
-       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:120%;">
-</a>
+
 
 <hr>
 
