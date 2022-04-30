@@ -13,6 +13,10 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTllyP79MqrXCSSphiNTGeBm22-phQr0OfKItcYEwT-ue5N3g_PfUPC20w6o_obnroIat0&usqp=CAU" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
+<a href="https://docs.python.org/3/" target="_blank">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
+</a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
   <img src="https://96renato96.files.wordpress.com/2014/10/javascript-logo-png1.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;"> 
