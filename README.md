@@ -14,7 +14,7 @@
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
 <a href="https://docs.python.org/3/" target="_blank">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" 
+  <img src="https://img2.gratispng.com/20180320/fkq/kisspng-angle-text-symbol-brand-other-python-5ab0c09b32b4d1.7494578715215330832077.jpg" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
