@@ -14,7 +14,7 @@
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
 <a href="https://docs.python.org/3/" target="_blank">
-  <img src="https://minerandodados.com.br/wp-content/uploads/2017/02/python-logo.png" 
+  <img src="https://logospng.org/wp-content/uploads/javascript.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
