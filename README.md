@@ -67,7 +67,7 @@
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:120%;">
 </a>
 <a href="https://linkwhats.app/3a9228" target="_blank">
-  <img src="[[https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png](https://banner2.cleanpng.com/20180508/qyw/kisspng-flask-python-web-framework-web-application-tutoria-5af1dbb70b6430.1030595115257998630467.jpg)](https://res.cloudinary.com/practicaldev/image/fetch/s--uEMNBYzd--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://raw.githubusercontent.com/admin-dashboards/deploy-flask-app/master/media/deploy-flask-app-blog-article.jpg)" 
+  <img src="https://www.linkedin.com/feed/update/urn:li:activity:6931063266190209024/" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:120%;">
 </a>
 
