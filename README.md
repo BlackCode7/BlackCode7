@@ -70,6 +70,10 @@
   <img src="https://www.linkedin.com/feed/update/urn:li:activity:6931063266190209024/" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:120%;">
 </a>
+<a href="https://linkwhats.app/3a9228" target="_blank">
+  <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-icone-2.png" 
+       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
+</a>
 
 
 <hr>
@@ -96,10 +100,7 @@
   <img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
 </a>
-<a href="https://linkwhats.app/3a9228" target="_blank">
-  <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-icone-2.png" 
-       align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:100%;">
-</a>
+
 
 <hr>
 
