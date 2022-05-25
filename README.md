@@ -100,7 +100,7 @@
 
 <h2>Education</h2>
 
-https://lnkd.in/dybnGzMi
+[https://lnkd.in/dybnGzMi](https://www.linkedin.com/feed/update/urn:li:activity:6931063266190209024/)
 
 <hr>
 
