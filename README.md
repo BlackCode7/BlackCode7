@@ -101,10 +101,10 @@
 
 <h2>Education</h2>
 
+https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6935353357016420352
 
-[<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6935353357016420352" height="378" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada">
-</iframe>]
 <hr>
+
 Graduating in Systems Analysis and Development Favip – Widen (mar/2020 até 2023 https://www.eadwyden.com.br/);
 
 <!--
