@@ -101,6 +101,10 @@
 
 <h2>Education</h2>
 
+https://lnkd.in/dybnGzMi
+
+<hr>
+
 https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6935353357016420352
 
 <hr>
