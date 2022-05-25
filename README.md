@@ -63,7 +63,7 @@
        align="center" alt="DevJavaPythonTypeScript" width="80em" style="max-width:120%;">
 </a>
 <a href="https://linkwhats.app/3a9228" target="_blank">
-  <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" 
+  <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" 
        align="center" alt="DevJavaPythonTypeScript" width="50em" style="max-width:120%;">
 </a>
 
